@@ -1,7 +1,7 @@
 # Recognize-handwritten-digits-using-neural-networks
 
 ## About the Dataset
-The MNIST dataset is one of the most common datasets used for image classification and accessible from many different sources. In fact, even Tensorflow and Keras allow us to import and download the MNIST dataset directly from their API. 
+The MNIST dataset is one of the most common datasets used for image classification and accessible from many different sources. In fact, even Tensorflow and Keras allow us to import and download the MNIST dataset directly from their API. There is no need of downloading the dataset separately.
 
 The MNIST database contains 60,000 training images and 10,000 testing images taken from American Census Bureau employees and American high school students.
 
